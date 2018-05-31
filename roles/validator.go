@@ -1,7 +1,7 @@
 package roles
 
 import (
-	"github.com/GSamuel/werewolves-of-millers-hollow/game"
+	"github.com/hunghoangmagrabbit/werewolves-of-millers-hollow/game"
 )
 
 func InBounds(g *game.Game, i int) bool {
