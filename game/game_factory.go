@@ -1,8 +1,8 @@
 package game
 
 import (
-	"github.com/GSamuel/werewolves-of-millers-hollow/deck"
-	"github.com/GSamuel/werewolves-of-millers-hollow/io"
+	"github.com/hunghoangmagrabbit/werewolves-of-millers-hollow/deck"
+	"github.com/hunghoangmagrabbit/werewolves-of-millers-hollow/io"
 )
 
 type RoleFactory interface {
