@@ -1,7 +1,7 @@
 package game
 
 import (
-	"github.com/GSamuel/werewolves-of-millers-hollow/io"
+	"github.com/hunghoangmagrabbit/werewolves-of-millers-hollow/io"
 )
 
 type Player struct {
