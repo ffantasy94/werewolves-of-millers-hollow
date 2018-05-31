@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/GSamuel/werewolves-of-millers-hollow/deck"
-	"github.com/GSamuel/werewolves-of-millers-hollow/game"
-	"github.com/GSamuel/werewolves-of-millers-hollow/roles"
+	"github.com/hunghoangmagrabbit/werewolves-of-millers-hollow/deck"
+	"github.com/hunghoangmagrabbit/werewolves-of-millers-hollow/game"
+	"github.com/hunghoangmagrabbit/werewolves-of-millers-hollow/roles"
 )
 
 func main() {
